@@ -1,0 +1,988 @@
+fileFormatVersion: 2
+guid: 038b41530fe580b4e8809c9948215f39
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5702472346745955270
+    second: just_hardhat 1_0
+  - first:
+      213: -1008523444056310937
+    second: just_hardhat 1_1
+  - first:
+      213: 4297227375127303453
+    second: just_hardhat 1_2
+  - first:
+      213: -7525037718025389282
+    second: just_hardhat 1_3
+  - first:
+      213: 5753859812548206984
+    second: just_hardhat 1_4
+  - first:
+      213: -6446879320725924023
+    second: just_hardhat 1_5
+  - first:
+      213: -7556524357309442091
+    second: just_hardhat 1_6
+  - first:
+      213: 5706324036632865279
+    second: just_hardhat 1_7
+  - first:
+      213: 3259050090012944212
+    second: just_hardhat 1_8
+  - first:
+      213: 6941659224490788037
+    second: just_hardhat 1_9
+  - first:
+      213: 571046265073101405
+    second: just_hardhat 1_10
+  - first:
+      213: 5401794906981871056
+    second: just_hardhat 1_11
+  - first:
+      213: -1793929945321708889
+    second: just_hardhat 1_12
+  - first:
+      213: -5893060353513465978
+    second: just_hardhat 1_13
+  - first:
+      213: 2296267841676588594
+    second: just_hardhat 1_14
+  - first:
+      213: -408026781813828184
+    second: just_hardhat 1_15
+  - first:
+      213: -6577553766102777860
+    second: just_hardhat 1_16
+  - first:
+      213: 671562700211837669
+    second: just_hardhat 1_17
+  - first:
+      213: 325667455495144405
+    second: just_hardhat 1_18
+  - first:
+      213: -2713709637523962105
+    second: just_hardhat 1_19
+  - first:
+      213: -1026549860524014666
+    second: just_hardhat 1_20
+  - first:
+      213: 4416424331617455251
+    second: just_hardhat 1_21
+  - first:
+      213: 8666440459247120411
+    second: just_hardhat 1_22
+  - first:
+      213: 8144040294257459230
+    second: just_hardhat 1_23
+  - first:
+      213: 1216468299710721112
+    second: just_hardhat 1_24
+  - first:
+      213: 2430276709950524490
+    second: just_hardhat 1_25
+  - first:
+      213: 4772162483931278602
+    second: just_hardhat 1_26
+  - first:
+      213: -7459551485717783615
+    second: just_hardhat 1_27
+  - first:
+      213: -2163757829079622880
+    second: just_hardhat 1_28
+  - first:
+      213: -3174944199767898706
+    second: just_hardhat 1_29
+  - first:
+      213: 3339301019829801566
+    second: just_hardhat 1_30
+  - first:
+      213: 3302759849349417255
+    second: just_hardhat 1_31
+  - first:
+      213: 6926933768906430164
+    second: just_hardhat 1_32
+  - first:
+      213: -7572662423048165702
+    second: just_hardhat 1_33
+  - first:
+      213: 6141992373303086279
+    second: just_hardhat 1_34
+  - first:
+      213: 4583679053382497546
+    second: just_hardhat 1_35
+  - first:
+      213: -2181551665186888875
+    second: just_hardhat 1_36
+  - first:
+      213: -7047488815620507489
+    second: just_hardhat 1_37
+  - first:
+      213: -8541018378843128682
+    second: just_hardhat 1_38
+  - first:
+      213: 8780243964405189972
+    second: just_hardhat 1_39
+  - first:
+      213: 3439147454307425472
+    second: just_hardhat 1_40
+  - first:
+      213: -2379458217811607640
+    second: just_hardhat 1_41
+  - first:
+      213: -2258524768402481894
+    second: just_hardhat 1_42
+  - first:
+      213: -2409797334457089757
+    second: just_hardhat 1_43
+  - first:
+      213: 1840628347846702943
+    second: just_hardhat 1_44
+  - first:
+      213: -5202963198213598711
+    second: just_hardhat 1_45
+  - first:
+      213: 2854278242241062016
+    second: just_hardhat 1_46
+  - first:
+      213: -7181158286883843749
+    second: just_hardhat 1_47
+  - first:
+      213: -8417383035111968936
+    second: just_hardhat 1_48
+  - first:
+      213: 517065176957554423
+    second: just_hardhat 1_49
+  - first:
+      213: -9211344534271359323
+    second: just_hardhat 1_50
+  - first:
+      213: 8169243108105910875
+    second: just_hardhat 1_51
+  - first:
+      213: -5446063049545233700
+    second: just_hardhat 1_52
+  - first:
+      213: -6732706434772150322
+    second: just_hardhat 1_53
+  - first:
+      213: -207141083568878139
+    second: just_hardhat 1_54
+  - first:
+      213: -6073998064770552380
+    second: just_hardhat 1_55
+  - first:
+      213: -3904054181407432976
+    second: just_hardhat 1_56
+  - first:
+      213: 7879458032983733911
+    second: just_hardhat 1_57
+  - first:
+      213: -6495224497564699244
+    second: just_hardhat 1_58
+  - first:
+      213: -4181129586786072250
+    second: just_hardhat 1_59
+  - first:
+      213: -8874251027217502980
+    second: just_hardhat 1_60
+  - first:
+      213: 2374574080178899220
+    second: just_hardhat 1_61
+  - first:
+      213: 2087382509763367831
+    second: just_hardhat 1_62
+  - first:
+      213: -3911634157208718157
+    second: just_hardhat 1_63
+  - first:
+      213: -7785423388152477418
+    second: just_hardhat 1_64
+  - first:
+      213: -5359355713156157315
+    second: just_hardhat 1_65
+  - first:
+      213: -6689547504803699596
+    second: just_hardhat 1_66
+  - first:
+      213: 6287013838990107772
+    second: just_hardhat 1_67
+  - first:
+      213: 2871051711609221286
+    second: just_hardhat 1_68
+  - first:
+      213: -78599419233627496
+    second: just_hardhat 1_69
+  - first:
+      213: -3050536446071556412
+    second: just_hardhat 1_70
+  - first:
+      213: 3451546759817467077
+    second: just_hardhat 1_71
+  - first:
+      213: 6572079828132109890
+    second: just_hardhat 1_72
+  - first:
+      213: -4507280913964210392
+    second: just_hardhat 1_73
+  - first:
+      213: 1610017564629001776
+    second: just_hardhat 1_74
+  - first:
+      213: 7862209811500013372
+    second: just_hardhat 1_75
+  - first:
+      213: 270733782686525912
+    second: just_hardhat 1_76
+  - first:
+      213: 4292232393535467532
+    second: just_hardhat 1_77
+  - first:
+      213: -4441764720172481350
+    second: just_hardhat 1_78
+  - first:
+      213: -1139246428608516220
+    second: just_hardhat 1_79
+  - first:
+      213: 420935777704336487
+    second: just_hardhat 1_80
+  - first:
+      213: -4782948021687355105
+    second: just_hardhat 1_81
+  - first:
+      213: -6655443423437434229
+    second: just_hardhat 1_82
+  - first:
+      213: -3310605618928716682
+    second: just_hardhat 1_83
+  - first:
+      213: -7316785765324966654
+    second: just_hardhat 1_84
+  - first:
+      213: -8918562134741422215
+    second: just_hardhat 1_85
+  - first:
+      213: 5881297486658399896
+    second: just_hardhat 1_86
+  - first:
+      213: 1296293092431342527
+    second: just_hardhat 1_87
+  - first:
+      213: -4881599568473209347
+    second: just_hardhat 1_88
+  - first:
+      213: -802625899801953572
+    second: just_hardhat 1_89
+  - first:
+      213: 2222135538695779493
+    second: just_hardhat 1_90
+  - first:
+      213: -3889067727385708554
+    second: just_hardhat 1_91
+  - first:
+      213: -8224534808161549997
+    second: just_hardhat 1_92
+  - first:
+      213: -6512728663726612656
+    second: just_hardhat 1_93
+  - first:
+      213: 6666709190637699407
+    second: just_hardhat 1_94
+  - first:
+      213: -341670424581975748
+    second: just_hardhat 1_95
+  - first:
+      213: 5820809166143356616
+    second: just_hardhat 1_96
+  - first:
+      213: 5813720071425419569
+    second: just_hardhat 1_97
+  - first:
+      213: 9104018562675219606
+    second: just_hardhat 1_98
+  - first:
+      213: 2530486836747619484
+    second: just_hardhat 1_99
+  - first:
+      213: 3788998525273860521
+    second: just_hardhat 1_100
+  - first:
+      213: -6593269176775923941
+    second: just_hardhat 1_101
+  - first:
+      213: 7777716118491755316
+    second: just_hardhat 1_102
+  - first:
+      213: 2853263387926240640
+    second: just_hardhat 1_103
+  - first:
+      213: 6101494652533194827
+    second: just_hardhat 1_104
+  - first:
+      213: 7083841207206605216
+    second: just_hardhat 1_105
+  - first:
+      213: -4955749835974070467
+    second: just_hardhat 1_106
+  - first:
+      213: -7736040279671719835
+    second: just_hardhat 1_107
+  - first:
+      213: -6187504382618932982
+    second: just_hardhat 1_108
+  - first:
+      213: 7804549524266975599
+    second: just_hardhat 1_109
+  - first:
+      213: -364829651558574035
+    second: just_hardhat 1_110
+  - first:
+      213: 3382471213404838020
+    second: just_hardhat 1_111
+  - first:
+      213: -4383685703636057264
+    second: just_hardhat 1_112
+  - first:
+      213: 3449192497021413400
+    second: just_hardhat 1_113
+  - first:
+      213: 880896136996133817
+    second: just_hardhat 1_114
+  - first:
+      213: 6902528736599243283
+    second: just_hardhat 1_115
+  - first:
+      213: -53130564157156717
+    second: just_hardhat 1_116
+  - first:
+      213: -7942686386961361921
+    second: just_hardhat 1_117
+  - first:
+      213: -8993899007197450880
+    second: just_hardhat 1_118
+  - first:
+      213: -3812981657209778723
+    second: just_hardhat 1_119
+  - first:
+      213: -2453503887514582338
+    second: just_hardhat 1_120
+  - first:
+      213: -2625680774078523941
+    second: just_hardhat 1_121
+  - first:
+      213: 4392683774359016903
+    second: just_hardhat 1_122
+  - first:
+      213: 6090086703609430397
+    second: just_hardhat 1_123
+  - first:
+      213: 523142284537512944
+    second: just_hardhat 1_124
+  - first:
+      213: -4041328840192617326
+    second: just_hardhat 1_125
+  - first:
+      213: 1843893002677824293
+    second: just_hardhat 1_126
+  - first:
+      213: -9141972411326649079
+    second: just_hardhat 1_127
+  - first:
+      213: 3999274304558202464
+    second: just_hardhat 1_128
+  - first:
+      213: 7284219984121501272
+    second: just_hardhat 1_129
+  - first:
+      213: 1725980798107559388
+    second: just_hardhat 1_130
+  - first:
+      213: -8060248322394666075
+    second: just_hardhat 1_131
+  - first:
+      213: 1807199202125011571
+    second: just_hardhat 1_132
+  - first:
+      213: 7154483399749707019
+    second: just_hardhat 1_133
+  - first:
+      213: -7788217865837903881
+    second: just_hardhat 1_134
+  - first:
+      213: 8393300252606617385
+    second: just_hardhat 1_135
+  - first:
+      213: 2772798450312772636
+    second: just_hardhat 1_136
+  - first:
+      213: -1451082583738059657
+    second: just_hardhat 1_137
+  - first:
+      213: -3135641789437649444
+    second: just_hardhat 1_138
+  - first:
+      213: -8682877950490426265
+    second: just_hardhat 1_139
+  - first:
+      213: -4062610169776402373
+    second: just_hardhat 1_140
+  - first:
+      213: 2943868290657660114
+    second: just_hardhat 1_141
+  - first:
+      213: 1733718339345132468
+    second: just_hardhat 1_142
+  - first:
+      213: 921899873922956204
+    second: just_hardhat 1_143
+  - first:
+      213: 5936988812891465521
+    second: just_hardhat 1_144
+  - first:
+      213: 3315934916123137718
+    second: just_hardhat 1_145
+  - first:
+      213: -5608589535604564014
+    second: just_hardhat 1_146
+  - first:
+      213: 5974334117877378597
+    second: just_hardhat 1_147
+  - first:
+      213: 2124678429387784103
+    second: just_hardhat 1_148
+  - first:
+      213: -5684028908460053877
+    second: just_hardhat 1_149
+  - first:
+      213: 1520992210254304736
+    second: just_hardhat 1_150
+  - first:
+      213: 9145343437765382388
+    second: just_hardhat 1_151
+  - first:
+      213: -6254400062461330627
+    second: just_hardhat 1_152
+  - first:
+      213: 2038917965711590347
+    second: just_hardhat 1_153
+  - first:
+      213: 3896182279073467994
+    second: just_hardhat 1_154
+  - first:
+      213: -6952734556629664786
+    second: just_hardhat 1_155
+  - first:
+      213: 3954032204795699354
+    second: just_hardhat 1_156
+  - first:
+      213: 3675380106252126282
+    second: just_hardhat 1_157
+  - first:
+      213: -49574587714732783
+    second: just_hardhat 1_158
+  - first:
+      213: 3425234023572201641
+    second: just_hardhat 1_159
+  - first:
+      213: 5166478616973910310
+    second: just_hardhat 1_160
+  - first:
+      213: -5009837517447550195
+    second: just_hardhat 1_161
+  - first:
+      213: 5425199674350703604
+    second: just_hardhat 1_162
+  - first:
+      213: 7548776907826419631
+    second: just_hardhat 1_163
+  - first:
+      213: -1692997692292528005
+    second: just_hardhat 1_164
+  - first:
+      213: 2589345828528803634
+    second: just_hardhat 1_165
+  - first:
+      213: -4381943940100537816
+    second: just_hardhat 1_166
+  - first:
+      213: -4205634375630931265
+    second: just_hardhat 1_167
+  - first:
+      213: 8956718873587283479
+    second: just_hardhat 1_168
+  - first:
+      213: 7110130767876401122
+    second: just_hardhat 1_169
+  - first:
+      213: -2975532432909507320
+    second: just_hardhat 1_170
+  - first:
+      213: -2490253636234843825
+    second: just_hardhat 1_171
+  - first:
+      213: 4230752481064825651
+    second: just_hardhat 1_172
+  - first:
+      213: 819733810083913322
+    second: just_hardhat 1_173
+  - first:
+      213: -6124358295850816470
+    second: just_hardhat 1_174
+  - first:
+      213: -6847814873512024462
+    second: just_hardhat 1_175
+  - first:
+      213: 3324016692976369487
+    second: just_hardhat 1_176
+  - first:
+      213: 555339045778575873
+    second: just_hardhat 1_177
+  - first:
+      213: -3820770476884167420
+    second: just_hardhat 1_178
+  - first:
+      213: 4783805962244602598
+    second: just_hardhat 1_179
+  - first:
+      213: -2736794136860084139
+    second: just_hardhat 1_180
+  - first:
+      213: 5561371754019670635
+    second: just_hardhat 1_181
+  - first:
+      213: 6951034139033933357
+    second: just_hardhat 1_182
+  - first:
+      213: -1459624802045460284
+    second: just_hardhat 1_183
+  - first:
+      213: 8648103974740007097
+    second: just_hardhat 1_184
+  - first:
+      213: 8924841416994890796
+    second: just_hardhat 1_185
+  - first:
+      213: -7235902928828355456
+    second: just_hardhat 1_186
+  - first:
+      213: 6075087183558427033
+    second: just_hardhat 1_187
+  - first:
+      213: -3820668772775796678
+    second: just_hardhat 1_188
+  - first:
+      213: -6866129856912767192
+    second: just_hardhat 1_189
+  - first:
+      213: -623127377605558063
+    second: just_hardhat 1_190
+  - first:
+      213: -2918346839175000824
+    second: just_hardhat 1_191
+  - first:
+      213: -5405654696495729386
+    second: just_hardhat 1_192
+  - first:
+      213: -7842442132703796758
+    second: just_hardhat 1_193
+  - first:
+      213: -6924828910470569803
+    second: just_hardhat 1_194
+  - first:
+      213: 3735208769811336499
+    second: just_hardhat 1_195
+  - first:
+      213: 6788981903710570363
+    second: just_hardhat 1_196
+  - first:
+      213: 3137335738495468896
+    second: just_hardhat 1_197
+  - first:
+      213: 101489958863340843
+    second: just_hardhat 1_198
+  - first:
+      213: 2795620608986029636
+    second: just_hardhat 1_199
+  - first:
+      213: -7172023764861580424
+    second: just_hardhat 1_200
+  - first:
+      213: 8655434452671435812
+    second: just_hardhat 1_201
+  - first:
+      213: 2345729284677211654
+    second: just_hardhat 1_202
+  - first:
+      213: -7389592179165421820
+    second: just_hardhat 1_203
+  - first:
+      213: 96547824654971041
+    second: just_hardhat 1_204
+  - first:
+      213: 5840275057664213573
+    second: just_hardhat 1_205
+  - first:
+      213: 4389149500039761736
+    second: just_hardhat 1_206
+  - first:
+      213: -580712191593809384
+    second: just_hardhat 1_207
+  - first:
+      213: 7056585158041332409
+    second: just_hardhat 1_208
+  - first:
+      213: 8025575287194361048
+    second: just_hardhat 1_209
+  - first:
+      213: -6011549209845338353
+    second: just_hardhat 1_210
+  - first:
+      213: -8914829600513077668
+    second: just_hardhat 1_211
+  - first:
+      213: -626945571653623998
+    second: just_hardhat 1_212
+  - first:
+      213: -3986347057561957348
+    second: just_hardhat 1_213
+  - first:
+      213: -4585634336179910053
+    second: just_hardhat 1_214
+  - first:
+      213: -8448846128061268490
+    second: just_hardhat 1_215
+  - first:
+      213: 7366123199814784336
+    second: just_hardhat 1_216
+  - first:
+      213: 3088134014679512560
+    second: just_hardhat 1_217
+  - first:
+      213: -7197925671053383969
+    second: just_hardhat 1_218
+  - first:
+      213: -1840485531078926266
+    second: just_hardhat 1_219
+  - first:
+      213: -7583839287685673714
+    second: just_hardhat 1_220
+  - first:
+      213: -6311029087826588956
+    second: just_hardhat 1_221
+  - first:
+      213: -1147016571849179395
+    second: just_hardhat 1_222
+  - first:
+      213: 4204604163023560321
+    second: just_hardhat 1_223
+  - first:
+      213: -3471190854160002392
+    second: just_hardhat 1_224
+  - first:
+      213: 5866005792616145833
+    second: just_hardhat 1_225
+  - first:
+      213: 4744530730960114910
+    second: just_hardhat 1_226
+  - first:
+      213: -5771446110984419225
+    second: just_hardhat 1_227
+  - first:
+      213: 3318974195900462246
+    second: just_hardhat 1_228
+  - first:
+      213: -3071006950071527123
+    second: just_hardhat 1_229
+  - first:
+      213: 7800743534706463399
+    second: just_hardhat 1_230
+  - first:
+      213: 3360977111189906797
+    second: just_hardhat 1_231
+  - first:
+      213: -4058796916939351837
+    second: just_hardhat 1_232
+  - first:
+      213: -8752724244584712497
+    second: just_hardhat 1_233
+  - first:
+      213: -6535797704645809574
+    second: just_hardhat 1_234
+  - first:
+      213: 390710432959431191
+    second: just_hardhat 1_235
+  - first:
+      213: 3134962767472905754
+    second: just_hardhat 1_236
+  - first:
+      213: -6127732421486056259
+    second: just_hardhat 1_237
+  - first:
+      213: -6108357178831083911
+    second: just_hardhat 1_238
+  - first:
+      213: -3160203399565282475
+    second: just_hardhat 1_239
+  - first:
+      213: 6074164308590169380
+    second: just_hardhat 1_240
+  - first:
+      213: -3734583377701514518
+    second: just_hardhat 1_241
+  - first:
+      213: 1165501494951023090
+    second: just_hardhat 1_242
+  - first:
+      213: -2207040912391749793
+    second: just_hardhat 1_243
+  - first:
+      213: 7088017037710888413
+    second: just_hardhat 1_244
+  - first:
+      213: 6639414033637146127
+    second: just_hardhat 1_245
+  - first:
+      213: -698995336460107576
+    second: just_hardhat 1_246
+  - first:
+      213: -9157171029757667535
+    second: just_hardhat 1_247
+  - first:
+      213: 2307014102593294263
+    second: just_hardhat 1_248
+  - first:
+      213: 5468403357927948536
+    second: just_hardhat 1_249
+  - first:
+      213: -3147459982189979015
+    second: just_hardhat 1_250
+  - first:
+      213: 3498395588823766006
+    second: just_hardhat 1_251
+  - first:
+      213: 5445163164712655478
+    second: just_hardhat 1_252
+  - first:
+      213: 7971496929784642675
+    second: just_hardhat 1_253
+  - first:
+      213: 3901175819393766713
+    second: just_hardhat 1_254
+  - first:
+      213: 2836810693836292129
+    second: just_hardhat 1_255
+  - first:
+      213: -7617999347031552865
+    second: just_hardhat 1_256
+  - first:
+      213: 1713547966676008504
+    second: just_hardhat 1_257
+  - first:
+      213: 6133784254299144183
+    second: just_hardhat 1_258
+  - first:
+      213: -3724524921866866968
+    second: just_hardhat 1_259
+  - first:
+      213: -1392302110975710096
+    second: just_hardhat 1_260
+  - first:
+      213: 8468409444549901763
+    second: just_hardhat 1_261
+  - first:
+      213: 5851410529500199506
+    second: just_hardhat 1_262
+  - first:
+      213: -8046230070382805057
+    second: just_hardhat 1_263
+  - first:
+      213: 1934554806172985209
+    second: just_hardhat 1_264
+  - first:
+      213: -572728384381797928
+    second: just_hardhat 1_265
+  - first:
+      213: 2085546404962356299
+    second: just_hardhat 1_266
+  - first:
+      213: 3867723860451976249
+    second: just_hardhat 1_267
+  - first:
+      213: 6483738403276611350
+    second: just_hardhat 1_268
+  - first:
+      213: -8890012777015672499
+    second: just_hardhat 1_269
+  - first:
+      213: 9116971122298251982
+    second: just_hardhat 1_270
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 512
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 34
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: just_hardhat 1_0
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2610
+        width: 1253
+        height: 767
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c18b61d9fbcd0b0800000000000000
+      internalID: -5702472346745955270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      just_hardhat 1_0: -5702472346745955270
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

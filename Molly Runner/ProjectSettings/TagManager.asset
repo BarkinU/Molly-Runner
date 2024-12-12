@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Diamond
+  - Gold
+  - MovingObstacle
+  - Wall
+  - Baby
+  - Enemy
+  - Sword
+  - ObstanceWall
+  - Saw
+  - Hammer
+  - ObstanceX
+  - CylinderMoving
+  - PlayButton
+  - Stand
+  - Pivot
+  - FinishObject
+  - Cave
+  - ObjectPooler
+  - Maze
+  - Button
+  - Thorn
+  - WormRewardedAdd
+  - Turret
+  - Helix
+  - ParkingButton
+  - OpenGateButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Obstacles
+  - LevelBoss
+  - Baby
+  - Options
+  - FinishObject
+  - Cave
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: MARKETPLACE
+    uniqueID: 2144395507
+    locked: 0

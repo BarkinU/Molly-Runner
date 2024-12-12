@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1044950435716",
+    "firebase_url": "https://minegorunner-default-rtdb.firebaseio.com",
+    "project_id": "minegorunner",
+    "storage_bucket": "minegorunner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044950435716:android:56356d86369e082083ffd1",
+        "android_client_info": {
+          "package_name": "com.MineGo.MineGoRunner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044950435716-uqh372jr0v1t81rtglmlu27h8p3d2ed8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtaLaHJdb_qodgBYD-pm-JvLFSwTprTII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044950435716-uqh372jr0v1t81rtglmlu27h8p3d2ed8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044950435716-uj3o50i7rjh0npmd5qk9bvpfuqq205b4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.MineGo.MineGoRunner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

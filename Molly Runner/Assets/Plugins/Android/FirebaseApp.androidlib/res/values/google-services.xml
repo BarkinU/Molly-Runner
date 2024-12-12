@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">298095751351</string>
+  <string name="google_storage_bucket" translatable="false">minego-runner.appspot.com</string>
+  <string name="project_id" translatable="false">minego-runner</string>
+  <string name="google_api_key" translatable="false">AIzaSyDKDCY7Wq87ZMjvT2C5qeYrdq8QRM2FQ2Y</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDKDCY7Wq87ZMjvT2C5qeYrdq8QRM2FQ2Y</string>
+  <string name="google_app_id" translatable="false">1:298095751351:android:8e24e9dc7400f64abfdd32</string>
+  <string name="default_web_client_id" translatable="false">298095751351-1f2j3hfprpcuteifa0377qsch0dt6j0a.apps.googleusercontent.com</string>
+</resources>

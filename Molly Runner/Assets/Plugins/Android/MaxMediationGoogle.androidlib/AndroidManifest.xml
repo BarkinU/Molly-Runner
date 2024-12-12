@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.applovin.mediation.unity.adapters.google">
+  <application>
+    <meta-data android:name="com.google.android.gms.ads.APPLICATION_ID" android:value="ca-app-pub-3207360339145218~2220018744" />
+  </application>
+  <application android:networkSecurityConfig="@xml/network_security_config"></application>
+</manifest>

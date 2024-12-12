@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf54dd0172c998c47bf6479aa3a2a2d1, type: 3}
+  m_Name: ItemScriptable
+  m_EditorClassIdentifier: 
+  lockImage: {fileID: 21300000, guid: 4a57b9ebeade14b429e60c9cd71110d9, type: 3}
+  hats:
+  - cutImage: {fileID: -5702472346745955270, guid: 038b41530fe580b4e8809c9948215f39, type: 3}
+    woreImage: {fileID: 21300000, guid: 215fa8b21cf38e742bace5810bfa3e5f, type: 3}
+    itemPrice: 0
+    defenceValue: 0
+    attack: 0
+    itemID: 1
+  - cutImage: {fileID: 3923925197264428330, guid: 88458894706a3ff40b785cd565acf300, type: 3}
+    woreImage: {fileID: 21300000, guid: 2deea9fa3f92bf341bffe6c36ea522f7, type: 3}
+    itemPrice: 500
+    defenceValue: 2
+    attack: 2
+    itemID: 2
+  - cutImage: {fileID: -9073999469818861584, guid: 9f779fd8f5d40054387a09ad221519a2, type: 3}
+    woreImage: {fileID: 21300000, guid: de4f88e0f9f054042acab7198d0cbec7, type: 3}
+    itemPrice: 700
+    defenceValue: 3
+    attack: 2
+    itemID: 3
+  - cutImage: {fileID: -3858866890261955892, guid: ef85c0d399125744ba41f53335e6b730, type: 3}
+    woreImage: {fileID: 21300000, guid: 82c89ac53b504ee47941418f9b183f65, type: 3}
+    itemPrice: 850
+    defenceValue: 2
+    attack: 3
+    itemID: 4
+  - cutImage: {fileID: 3162420945454638681, guid: 3ef7672a066cd28408929e36d01c66a6, type: 3}
+    woreImage: {fileID: 21300000, guid: 65de8a0b3ce64f9489f1697bb92c8345, type: 3}
+    itemPrice: 1100
+    defenceValue: 3
+    attack: 3
+    itemID: 5
+  - cutImage: {fileID: 8392553561134084806, guid: dce76b1781eb0074caae3494e49d4eb6, type: 3}
+    woreImage: {fileID: 21300000, guid: ed8f6f0a1b5728d40be0992570f96932, type: 3}
+    itemPrice: 1350
+    defenceValue: 4
+    attack: 4
+    itemID: 6
+  - cutImage: {fileID: 4520382717500336389, guid: d48ef5697d8f29a4fa22b7ff235e7b43, type: 3}
+    woreImage: {fileID: 21300000, guid: d2f6705bd0caedb44bf0235ca20ec15e, type: 3}
+    itemPrice: 1800
+    defenceValue: 5
+    attack: 4
+    itemID: 7
+  - cutImage: {fileID: -815414682357187529, guid: 1935ed0e6f9674b46961751a35828e4f, type: 3}
+    woreImage: {fileID: 21300000, guid: a68e817da9a48f348a982706aabc1a68, type: 3}
+    itemPrice: 2400
+    defenceValue: 4
+    attack: 5
+    itemID: 8
+  - cutImage: {fileID: 8483732999622948438, guid: de9275e38486d5f48a74b6533a88dd28, type: 3}
+    woreImage: {fileID: 21300000, guid: cb9611eb8b13299439c19128134b52d2, type: 3}
+    itemPrice: 2800
+    defenceValue: 5
+    attack: 5
+    itemID: 9
+  jackets:
+  - cutImage: {fileID: 8426498349407818867, guid: 40c271c7dbbbdb74c829048366fa048d, type: 3}
+    woreImage: {fileID: 21300000, guid: 720bc4a0914f1a847bfb12f5746d3211, type: 3}
+    itemPrice: 500
+    defenceValue: 0
+    attack: 1
+    itemID: 10
+  - cutImage: {fileID: 8744980659316642359, guid: c75dd5e41ddf25543a1c7541163c21a1, type: 3}
+    woreImage: {fileID: 21300000, guid: 156de29514b64d247b95bc3ec41e100f, type: 3}
+    itemPrice: 750
+    defenceValue: 1
+    attack: 1
+    itemID: 11
+  - cutImage: {fileID: -8649179529741867381, guid: f649ad54e92cd7e4f813c0716202d36a, type: 3}
+    woreImage: {fileID: 21300000, guid: b104b15d802658b419b1415c5927c6ee, type: 3}
+    itemPrice: 1250
+    defenceValue: 2
+    attack: 1
+    itemID: 12
+  - cutImage: {fileID: -4547664279147530487, guid: 517b9844434a45e4b86e40ac099c19e0, type: 3}
+    woreImage: {fileID: 21300000, guid: dd222ca1b89aa3048b1613aeff0c1da9, type: 3}
+    itemPrice: 1600
+    defenceValue: 2
+    attack: 1
+    itemID: 13
+  - cutImage: {fileID: -5710647648493918834, guid: eb6610c57fe611a40acd2790059bfd10, type: 3}
+    woreImage: {fileID: 21300000, guid: f6f90f1202608814597af867025fa604, type: 3}
+    itemPrice: 2500
+    defenceValue: 2
+    attack: 2
+    itemID: 14
+  pants:
+  - cutImage: {fileID: 1144809226442045968, guid: bafa0050325cc4541af1a875fd73a771, type: 3}
+    woreImage: {fileID: 21300000, guid: 3a214c97d866e9a498fd49654582414a, type: 3}
+    itemPrice: 250
+    defenceValue: 0
+    attack: 1
+    itemID: 15
+  - cutImage: {fileID: -2913136407545796902, guid: 2b1d080bc8ed11749a2174d973659172, type: 3}
+    woreImage: {fileID: 21300000, guid: 2d52794b096de6342a2ea103ee6aff01, type: 3}
+    itemPrice: 500
+    defenceValue: 1
+    attack: 1
+    itemID: 16
+  - cutImage: {fileID: -8855936761011505893, guid: c6eea09e9caff594baa42bbddf00df58, type: 3}
+    woreImage: {fileID: 21300000, guid: 4915b34b2e1787248bcb652b4d3ad67d, type: 3}
+    itemPrice: 1000
+    defenceValue: 1
+    attack: 2
+    itemID: 17
+  - cutImage: {fileID: 4451737348391095897, guid: 008cc59948dec6b47be2aa188f032cff, type: 3}
+    woreImage: {fileID: 21300000, guid: 745741e1a16c79246ac7c425ad9eb22a, type: 3}
+    itemPrice: 1250
+    defenceValue: 2
+    attack: 1
+    itemID: 18
+  - cutImage: {fileID: -56359422367077267, guid: 2e76bbb6b08934d4b8c25449963e9581, type: 3}
+    woreImage: {fileID: 21300000, guid: c9f72ff5f985d824a99000e848bf05bc, type: 3}
+    itemPrice: 2500
+    defenceValue: 2
+    attack: 2
+    itemID: 19

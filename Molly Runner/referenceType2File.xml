@@ -1,0 +1,1527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTypeDate xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <TypeDate>
+    <guid>d47bb3b71586b48dd954f5cdb11b8d19</guid>
+    <fileName>Assets/AudienceNetwork/Library/AdHandler.cs</fileName>
+    <timeStamp>2020-10-27T05:51:32+03:00</timeStamp>
+    <typeFullName>
+      <string>AudienceNetwork.AdHandler</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c6dc3140db0d40609e64d86ea8038bc</guid>
+    <fileName>Assets/AudienceNetwork/Library/AdSettings.cs</fileName>
+    <timeStamp>2020-10-27T05:51:32+03:00</timeStamp>
+    <typeFullName>
+      <string>AudienceNetwork.AdSettings</string>
+      <string>AudienceNetwork.AdLogger</string>
+      <string>AudienceNetwork.IAdSettingsBridge</string>
+      <string>AudienceNetwork.AdSettingsBridge</string>
+      <string>AudienceNetwork.AdSettingsBridgeAndroid</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>50f6966ab7c694899a9a6ec5bfe13ce7</guid>
+    <fileName>Assets/AudienceNetwork/Library/AdUtility.cs</fileName>
+    <timeStamp>2020-10-27T05:51:32+03:00</timeStamp>
+    <typeFullName>
+      <string>AudienceNetwork.Utility.AdUtility</string>
+      <string>AudienceNetwork.Utility.IAdUtilityBridge</string>
+      <string>AudienceNetwork.Utility.AdUtilityBridge</string>
+      <string>AudienceNetwork.Utility.AdUtilityBridgeAndroid</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>ea40c685492bb4a8c8ecc98f34c52ed2</guid>
+    <fileName>Assets/AudienceNetwork/Library/AdView.cs</fileName>
+    <timeStamp>2020-10-27T05:51:32+03:00</timeStamp>
+    <typeFullName>
+      <string>AudienceNetwork.AdSize</string>
+      <string>AudienceNetwork.AdPosition</string>
+      <string>AudienceNetwork.AdView</string>
+      <string>AudienceNetwork.IAdViewBridge</string>
+      <string>AudienceNetwork.AdViewBridge</string>
+      <string>AudienceNetwork.AdViewBridgeAndroid</string>
+      <string>AudienceNetwork.AdViewContainer</string>
+      <string>AudienceNetwork.AdViewBridgeListenerProxy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4f7b3f57160c342918af28e4b32686e8</guid>
+    <fileName>Assets/AudienceNetwork/Library/AudienceNetworkAds.cs</fileName>
+    <timeStamp>2020-10-27T05:51:32+03:00</timeStamp>
+    <typeFullName>
+      <string>AudienceNetwork.AudienceNetworkAds</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>327a6820e37284d458d23d5528ef137c</guid>
+    <fileName>Assets/AudienceNetwork/Library/ExtraHints.cs</fileName>
+    <timeStamp>2020-10-27T05:51:32+03:00</timeStamp>
+    <typeFullName>
+      <string>AudienceNetwork.ExtraHints</string>
+      <string>AudienceNetwork.ExtraHints+Keyword</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>aed5d3283123b47e9a5780a385f4e6ed</guid>
+    <fileName>Assets/AudienceNetwork/Library/InterstitialAd.cs</fileName>
+    <timeStamp>2020-10-27T05:51:32+03:00</timeStamp>
+    <typeFullName>
+      <string>AudienceNetwork.InterstitialAd</string>
+      <string>AudienceNetwork.IInterstitialAdBridge</string>
+      <string>AudienceNetwork.InterstitialAdBridge</string>
+      <string>AudienceNetwork.InterstitialAdBridgeAndroid</string>
+      <string>AudienceNetwork.InterstitialAdContainer</string>
+      <string>AudienceNetwork.InterstitialAdBridgeListenerProxy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>111ff137d27be424584e4e2160d44e80</guid>
+    <fileName>Assets/AudienceNetwork/Library/RewardedVideoAd.cs</fileName>
+    <timeStamp>2020-10-27T05:51:32+03:00</timeStamp>
+    <typeFullName>
+      <string>AudienceNetwork.RewardData</string>
+      <string>AudienceNetwork.RewardedVideoAd</string>
+      <string>AudienceNetwork.IRewardedVideoAdBridge</string>
+      <string>AudienceNetwork.RewardedVideoAdBridge</string>
+      <string>AudienceNetwork.RewardedVideoAdBridgeAndroid</string>
+      <string>AudienceNetwork.RewardedVideoAdContainer</string>
+      <string>AudienceNetwork.RewardedVideoAdBridgeListenerProxy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>766cc4756a404418f86a9625e15090fc</guid>
+    <fileName>Assets/AudienceNetwork/Library/SdkVersion.cs</fileName>
+    <timeStamp>2021-04-26T12:13:18+03:00</timeStamp>
+    <typeFullName>
+      <string>AudienceNetwork.SdkVersion</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f8b448fe9f60a4883aa9907cc3236629</guid>
+    <fileName>Assets/AudienceNetwork/Scenes/BaseScene.cs</fileName>
+    <timeStamp>2020-10-27T05:47:45+03:00</timeStamp>
+    <typeFullName>
+      <string>BaseScene</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>905b751bb63e44191a5363d3ed3d31d0</guid>
+    <fileName>Assets/AudienceNetwork/Scenes/Banner/AdViewScene.cs</fileName>
+    <timeStamp>2020-10-27T05:47:45+03:00</timeStamp>
+    <typeFullName>
+      <string>AdViewScene</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>00d288c1305fc494882c5c1d674f6779</guid>
+    <fileName>Assets/AudienceNetwork/Scenes/Interstitial/InterstitialAdScene.cs</fileName>
+    <timeStamp>2020-10-27T05:47:45+03:00</timeStamp>
+    <typeFullName>
+      <string>InterstitialAdScene</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>84bf87db85e7a4d18bf8422eb54ac837</guid>
+    <fileName>Assets/AudienceNetwork/Scenes/RewardedVideo/RewardedVideoAdScene.cs</fileName>
+    <timeStamp>2020-10-27T05:47:45+03:00</timeStamp>
+    <typeFullName>
+      <string>RewardedVideoAdScene</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>12a33cb7aa8f042ef8bc6a44c91eed4d</guid>
+    <fileName>Assets/AudienceNetwork/Scenes/Settings/SettingsScene.cs</fileName>
+    <timeStamp>2020-10-27T05:47:45+03:00</timeStamp>
+    <typeFullName>
+      <string>SettingsScene</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>842f43ac94b4b4f72ac0898650ddcc44</guid>
+    <fileName>Assets/Cleaner/Editor/AssetCollector.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.AssetCollector</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>805140a4856714e288ea84985d3023df</guid>
+    <fileName>Assets/Cleaner/Editor/AssetReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName>
+      <string>AssetReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>202c278a17939b24c8b79c0ee1f94d8f</guid>
+    <fileName>Assets/Cleaner/Editor/ClassReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ClassReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0d05386265df34bac8d0b6df44aa494c</guid>
+    <fileName>Assets/Cleaner/Editor/CollectionData.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName>
+      <string>CollectionData</string>
+      <string>TypeDate</string>
+      <string>IReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74eec3bfba0594259ac2843353c082a3</guid>
+    <fileName>Assets/Cleaner/Editor/FindUnusedAssetsWindow.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.FindUnusedAssetsWindow</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2c4f01a79a77a45a9a84004cc2b78098</guid>
+    <fileName>Assets/Cleaner/Editor/ShaderReferenceCollection.cs</fileName>
+    <timeStamp>2015-12-09T21:51:26+03:00</timeStamp>
+    <typeFullName>
+      <string>AssetClean.ShaderReferenceCollection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f6f956b5a57f949f8bbdc5c0bdd5fc6e</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AndroidAppBundle.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>50f90eb905884a578d699e13668b1692</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AndroidBuildException.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>35354282707b045b5b530c421d5a234e</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AndroidBuildHelper.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>90eabf8dd350c48c08d72f67b0082358</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AndroidBuildOptions.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d0c6937ea0847ec9a639618b2ae2bb8</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AndroidBuildReport.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6103140ca35a146aebf90b0d5001cf9d</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AssetBundleBuilder.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8b308e30f8f2a419fa2d96ce08ab2697</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AssetPack.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a0d123655d73c4856b6f7c6790c62082</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AssetPackConfig.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3f277e21537064a51a435fbc4d4c713a</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AssetPackConfigSerializer.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4d15a50545f1c4c4586351a1e698bfdc</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/AssetPackDeliveryMode.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>801cb4138f93a4a9e9d7dfd5926fefba</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Bundletool.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>316269c5a97a14720bbcfb91400cf2a8</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/BundletoolBuildMode.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>874234f05df734fa594e364198f4e4ac</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/CompressionOptions.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c225ed57653d242d491644b635b9c774</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/TextureCompressionFormat.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f33b5abf4e34544e597d9b43a21c8741</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AndroidArchitectureHelper.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>79f87642d146d41d7bdaaa2328b529b8</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AppBundleEditorMenu.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>067a2af83af994d2bab4a749cba47b73</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AppBundlePublisher.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d02bb9eaf0454eeda560629d83c032ce</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPackManifestTransformerRegistry.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0928808bcd00049ba8435d9cfe4f410c</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildAndRunner.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d3494e8040ba74ee78ff64f1018b5969</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildSettingsWindow.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>871b3f388b424b83bf6946eb0fc7a707</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuiltInPadHelper.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>92e27a04cd7b47a69d14d7a7e4832360</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/CreateBundleOptions.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>5406e0206a814b76b90e3bc632699d6b</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/DeprecatedAarDetector.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cd4b6b7f1bacf4b3f8452292b056a581</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/GoogleMenuItems.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>125cab0deed14a0898690fb1a55144ac</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/IBuildAndRunExtension.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4c8dbb4e90f44d99aef27c557b7279da</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/IBuildModeProvider.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c5b74d60f6b643d7a23138ed1e1a7528</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/PlayCoreConflictDetector.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>04e8948d9de8470e83d044d4bd1a9a44</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Registry.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f3c4c13f33e6f48dc9e8130d699f1428</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AndroidManifest/AssetPackManifestHelper.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>12432c2ade03483e9e956f11ddde2992</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AndroidManifest/IAssetPackManifestTransformer.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>16b5ed2898b684f67ab9286244de2e19</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AndroidManifest/ManifestConstants.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2c3bd268718fc41b48090fadb8eee0bd</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/AssetBundleFolder.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>20e43cae4a4245538a68b920730857b6</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/AssetBundlePack.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6c348752fa8c94d3a8f6f085846aa228</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/AssetBundleVariant.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bdc061489f3c64fd78ed0cefe895b007</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/AssetDeliveryConfig.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f127ef3c767384ec89ad3e3aef7ae1bb</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/AssetDeliveryConfigSerializer.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2fe34ebc6742d4f818529bc14c64c974</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/AssetDeliveryWindow.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8cad3b640bc35422c88ba5dd808e4170</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/AssetPackError.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0110294bad4d544c486274699623a0c2</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/AssetPackFolderState.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4ad448820c8d482996636e3862c1a420</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/AssetPackValidatorRegistry.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>56526b5a57974a7f8d23788f47d6a0db</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/IAssetPackValidator.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d474e3691efbb4141a8e8f46aeb406ef</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/AssetPacks/TextureTargetingTools.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c349f457532c645d8817661cbdcb5729</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AndroidAssetPackagingTool.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>24e34b4393a4d4a5d8de83ca5e08621c</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AndroidBuilder.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>46ae92b3dd8eb4e38b66ff3b58205318</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AndroidBuildTools.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>3a5aaac6c5d78491aa3590cbff08a890</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AndroidDebugBridge.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>408798f1df959420d8fb95911a935f2d</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AndroidSdk.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>36e42f83ed7a745ea9e4f4166d786141</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AndroidSdkPlatform.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>960e36d9911aa4011958de1e7407757d</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/ApkSigner.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a4ee87517b6d8405f9af0cd4e6d2029e</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AppBundleBuilder.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8103f73350aca4529af9e65605055a8b</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/AppBundleRunner.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1fb883fe4e14d4d90a8d664e93cb0b81</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/BuildToolLogger.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>09bfd5773b8db4b3ebc596a1c11cae96</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/BuildToolNotInitializedException.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f770d51f7cfa14c9da2a31e08a167e73</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/BundletoolConfig.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0996c5b6f76c44bab82db6c1f36a84c1</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/BundletoolExtensions.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc0e37b8322b54a4da00fdca472c4bb8</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/BundletoolHelper.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6ed1ed129773a49ad9caa331244333ff</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/IBuildTool.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bf519927705149098aece6a0c73137fe</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/JarSigner.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>16791a24cc9874bc6a41407b887146f5</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/JavaUtils.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>70edb5163b984f9799e762ef659dabe6</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/PostBuildRunner.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8e6ec7abd981a4580b1ec0a21602c072</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/PostBuildTask.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a72ad9ee7052447e385d166772c9b8ac</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/ReleaseBuildHelper.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bed5ac126295a479887b763b3778752f</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/BuildTools/ZipUtils.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>98657445555e4adab8532ed065e002f2</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Config/AndroidBuildConfiguration.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2971ccd90fecb4132ab5f746fce97ac4</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Config/SerializableAssetBundle.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d031fc28b0b84451ca9f735acf2cf991</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Config/SerializableAssetPack.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>fdc1301dfd6c941c9bb32b684806e673</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Config/SerializableAssetPackConfig.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75b007f0f1ad54854939ae9055151cc4</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Config/SerializableMultiTargetingAssetBundle.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75b007f1f13454654939aea0a5151ca3</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Config/SerializableMultiTargetingAssetPack.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75b007f1f1bd54854939cec055151dc3</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Config/SerializableTargetedDirectoryPath.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>12d75183cf4a84a9cac2994c5a842ab6</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Config/SerializationHelper.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>82d84541ddbac4dc283e6dd0f45a76e3</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/PlayServices/AndroidSdkManager.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c7b0cb9288a1142bb9fdbab1795abe9e</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/PlayServices/CommandLine.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c96ff1b4e1fa04e52835b8b54a861bf4</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/PlayServices/CommandLineDialog.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e0bee5c147382431ba11a2a4b3a3210b</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/PlayServices/Logger.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4021c9fd6b6874777be4455f9addd6e8</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/PlayServices/PlayServicesResolver.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0d4bc874171bf46818df8b8c647622d4</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/PlayServices/TextAreaDialog.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b5ea775d810d14f8fa45dd2c58e82c2d</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Utils/AndroidSdkPackageInstaller.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>23981fb4f0d5d48e391fbad81c9bfe3d</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Utils/CommandLineParameters.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6b677c4aa42424e8a8f010edab946dab</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Utils/EmptyCollection.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e05b9f7c9861d4fdb82d564ad551cc52</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Utils/EmptyDictionary.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>65e9e61a98d19471a9a122488b21324e</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Utils/NameAndDescriptionAttribute.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8d5c63912979b43acb5315e369b6740b</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Utils/PostBuildCommandLineDialog.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6cf420257eac24e9eb40bbf4f8ac09cf</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Utils/RegexHelper.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>0a4fd3b81224a4a1d9367053ed584a0f</guid>
+    <fileName>Assets/GooglePlayPlugins/com.google.android.appbundle/Editor/Scripts/Internal/Utils/WindowUtils.cs</fileName>
+    <timeStamp>2022-02-16T06:10:56+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bf54dd0172c998c47bf6479aa3a2a2d1</guid>
+    <fileName>Assets/Marketplace/Choose/ItemScriptable.cs</fileName>
+    <timeStamp>2022-07-01T11:26:28.9741849+03:00</timeStamp>
+    <typeFullName>
+      <string>ItemScriptable</string>
+      <string>ScriptableStruct</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2376824a26af1414bbc62440698ccc89</guid>
+    <fileName>Assets/MaxSdk/Mediation/Google/Editor/MaxGoogleInitialize.cs</fileName>
+    <timeStamp>2022-07-08T00:10:44+03:00</timeStamp>
+    <typeFullName>
+      <string>AppLovinMax.Mediation.Google.Editor.MaxGoogleInitialize</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6de4e4d420b14431a7d169724e23361e</guid>
+    <fileName>Assets/MaxSdk/Mediation/Google/Editor/MaxMediationGoogleUtils.cs</fileName>
+    <timeStamp>2022-07-08T00:10:44+03:00</timeStamp>
+    <typeFullName>
+      <string>AppLovinMax.Mediation.Google.Editor.MaxMediationGoogleUtils</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>42aa959278164e1683addd3bd5ff03d2</guid>
+    <fileName>Assets/MaxSdk/Mediation/Google/Editor/PostProcessor.cs</fileName>
+    <timeStamp>2022-07-08T00:10:44+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bfbc947903224d09a77085f74b86a409</guid>
+    <fileName>Assets/MaxSdk/Mediation/Google/Editor/PreProcessor.cs</fileName>
+    <timeStamp>2022-07-08T00:10:44+03:00</timeStamp>
+    <typeFullName>
+      <string>AppLovinMax.Mediation.Google.Editor.PreProcessor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>67ec2f620c6b0405ba16ea2c032dc9a2</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxEvents.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2fc7aa576843c44e68c7ab14b475bb82</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxSdk.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>10335fad6bfef47b8819a411aa591dc8</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxSdkAndroid.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>893e4e55a7e394274957f1034f7afc45</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxSdkBase.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4dc129a60049645f7a492a0a658a6c22</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxSdkCallbacks.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>e7c7ed6cdbdca44cd8eae28d3b60d28c</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxSdkiOS.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ff2b160afdfd4a74b731954323772a90</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxSdkLogger.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>13b3e537a64f24986bb8ffe3a0beef5c</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxSdkUnityEditor.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>47f1bc9a8eebd4d088e22e6baf00ede3</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxSdkUtils.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>409fe14211f31433da09f5b4bd5467b9</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxTargetingData.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8fb1f6f31b19c407b9d3fa62557d373a</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxUserSegment.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d2eacd6aa14494de6809b4b06027a332</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxUserServiceAndroid.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>6233dd3f0b4664e7dbdca14cc8904176</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxUserServiceiOS.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>16d44e29e68204f36975abec0feb1d35</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxUserServiceUnityEditor.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4a88b1f934b944909bf150636e251e9e</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxVariableServiceAndroid.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a586b9a3a20741a98bf8afaf5fc64201</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxVariableServiceiOS.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>b33c4c57c5a84dcd9a8a51fb701ee7b5</guid>
+    <fileName>Assets/MaxSdk/Scripts/MaxVariableServiceUnityEditor.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>bc0c5693335e0408a95293c0d7b61137</guid>
+    <fileName>Assets/MaxSdk/Scripts/Editor/MaxInitialization.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>75fed160a41749d4990cee871ee618a4</guid>
+    <fileName>Assets/MaxSdk/Scripts/Editor/MaxPostProcessBuildAndroid.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>29959b3cd36c484a9d57d6b7ca7f7bfa</guid>
+    <fileName>Assets/MaxSdk/Scripts/Editor/MaxPostProcessBuildiOS.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8bcdd5226273242c5bd9ec79568202e6</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinAutoUpdater.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>2d0aa55f9a7d2440f871dfb256372a33</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinCommandLine.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c85c3812a13e04838951767c1285e4da</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinDownloadHandler.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>95747c688378548eeb92aeb528ac96ff</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinEditorCoroutine.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>c5b874c1e65274159bcc0dc15d9458cc</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinIntegrationManager.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>84c61b4c05e114cec91df447d1b585f8</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinIntegrationManagerWindow.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>02c2d277874f649d18a59d382420bf65</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinMenuItems.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>f75e54e2eb78f427ca8643c97684387b</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinPostProcessAndroidGradle.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>d5d209f90444f4a90830b48b5f3f3ff4</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinPostProcessiOS.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>8ccaf444d0d4f4cadb5debe7c41b20c4</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinPreProcessAndroid.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>732b7510bc9c94aafb3fd3b8c0dc5d2d</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinProcessGradleBuildFile.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ebc0ba1b5ef6b4a6b9dd53d7eadfea16</guid>
+    <fileName>Assets/MaxSdk/Scripts/IntegrationManager/Editor/AppLovinSettings.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>52789a1d5a5754d46816fd9ed114a375</guid>
+    <fileName>Assets/MaxSdk/Scripts/ThirdParty/MiniJSON.cs</fileName>
+    <timeStamp>2022-07-18T09:31:29+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>4367b5ea06524664aa8ad3788ff5990c</guid>
+    <fileName>Assets/MeshAnimator/Editor/MeshAnimationCreator.cs</fileName>
+    <timeStamp>2021-12-20T16:03:51+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.MeshAnimationCreator</string>
+      <string>FSG.MeshAnimator.MeshAnimationCreator+RenderSection</string>
+      <string>FSG.MeshAnimator.MeshAnimationCreator+MeshBakePreferences</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp-Editor, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b2e43585ec2090c45a7c3d4e14aff1b4</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Abstraction/IMeshAnimation.cs</fileName>
+    <timeStamp>2021-12-20T16:05:04+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.IMeshAnimation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6c1ddc7d170cb3040bd8c6ae4d126d56</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Abstraction/IMeshAnimator.cs</fileName>
+    <timeStamp>2021-12-20T16:04:24+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.IMeshAnimator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>82748877e2c88774bbbc4541eb41a7cd</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Compatibility/MecanimMeshAnimatorController.cs</fileName>
+    <timeStamp>2021-12-20T16:04:43+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.MecanimMeshAnimatorController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>53a356bcda687224f9f57835a4b014cd</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Core/ExposedTransformCrossfade.cs</fileName>
+    <timeStamp>2021-12-20T16:04:01+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.ExposedTransformCrossfade</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>74de78b8b1934734b83e271a7d23407b</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Core/MeshAnimationBase.cs</fileName>
+    <timeStamp>2021-12-20T16:04:32+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.MeshAnimationBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>39fd00537b615bb42badb55828836263</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Core/MeshAnimationEvent.cs</fileName>
+    <timeStamp>2021-12-20T16:03:45+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.MeshAnimationEvent</string>
+      <string>FSG.MeshAnimator.MeshAnimationEvent+Mode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d8bcb61396d3f8f4dbc92157e38b3847</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Core/MeshAnimatorBase.cs</fileName>
+    <timeStamp>2021-12-20T16:05:22+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.MeshAnimatorBase</string>
+      <string>FSG.MeshAnimator.MeshAnimatorBase+MeshAnimatorLODLevel</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>2248458d0b3fc9742b1f6315bf6ce728</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Core/MeshAnimatorManager.cs</fileName>
+    <timeStamp>2021-12-20T16:03:32+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.MeshAnimatorManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>9493209e06d38c04abb5c5132571b275</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Core/MeshFrameDataBase.cs</fileName>
+    <timeStamp>2021-12-20T16:04:49+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.MeshFrameDataBase</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c707e30196952694681ea2eea2c73a09</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Core/MeshNormalMode.cs</fileName>
+    <timeStamp>2021-12-20T16:05:14+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.MeshNormalMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fe142f52d0141c147bb5ede00fe87251</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Core/RootMotionMode.cs</fileName>
+    <timeStamp>2021-12-20T16:05:37+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.RootMotionMode</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6420fdcc09443bc41ab85dc8702f7afa</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Utilities/AllocatedArray.cs</fileName>
+    <timeStamp>2021-12-20T16:04:17+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.AllocatedArray`1</string>
+      <string>FSG.MeshAnimator.AllocatedArray</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3d239b544ac26d549b8e13f63a7b5c87</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Utilities/Comparers.cs</fileName>
+    <timeStamp>2021-12-20T16:03:51+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.Comparers</string>
+      <string>FSG.MeshAnimator.Comparers+StringComparer</string>
+      <string>FSG.MeshAnimator.Comparers+FloatComparer</string>
+      <string>FSG.MeshAnimator.Comparers+IntComparer</string>
+      <string>FSG.MeshAnimator.Comparers+ByteComparer</string>
+      <string>FSG.MeshAnimator.Comparers+BoolComparer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>027a7859bb366354db6ebd2aa839f2ab</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Utilities/GenericObjectPool.cs</fileName>
+    <timeStamp>2021-12-20T16:03:20+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.GenericObjectPool`1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>58149df479cd3d549974defc62cdd326</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Utilities/MatrixUtils.cs</fileName>
+    <timeStamp>2021-12-20T16:04:02+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.MatrixUtils</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5c0369db774308a479f38a7a7f1430a8</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Common/Utilities/PooledDictionary.cs</fileName>
+    <timeStamp>2021-12-20T16:04:15+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.PooledDictionary`2</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>66819ee7584710249995a024282f6188</guid>
+    <fileName>Assets/MeshAnimator/Scripts/ShaderAnimated/ShaderMeshAnimation.cs</fileName>
+    <timeStamp>2021-12-20T16:04:18+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.ShaderAnimated.ShaderMeshAnimation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5e6cc279b0b49934980f1637ad388b77</guid>
+    <fileName>Assets/MeshAnimator/Scripts/ShaderAnimated/ShaderMeshAnimator.cs</fileName>
+    <timeStamp>2021-12-20T16:04:16+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.ShaderAnimated.ShaderMeshAnimator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>c02022b925d18274f8edebf98c85aa83</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Snapshot/SnapshotMeshAnimation.cs</fileName>
+    <timeStamp>2021-12-20T16:05:11+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.Snapshot.SnapshotMeshAnimation</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>26f48aa2d31090947a96e7b95bee577c</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Snapshot/SnapshotMeshAnimator.cs</fileName>
+    <timeStamp>2021-12-20T16:03:34+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.Snapshot.SnapshotMeshAnimator</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>1790dbec26a7d574a87b8c2b7aaf20cc</guid>
+    <fileName>Assets/MeshAnimator/Scripts/Snapshot/SnapshotMeshFrameData.cs</fileName>
+    <timeStamp>2021-12-20T16:03:28+03:00</timeStamp>
+    <typeFullName>
+      <string>FSG.MeshAnimator.Snapshot.SnapshotMeshFrameData</string>
+      <string>FSG.MeshAnimator.Snapshot.MeshTriangleData</string>
+      <string>FSG.MeshAnimator.Snapshot.DeltaCompressedFrameData</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d15dc397c19b541488dabcb32fc79264</guid>
+    <fileName>Assets/OneSignal/Attribution/VspAttribution.cs</fileName>
+    <timeStamp>2022-04-16T03:53:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>851966eae8b048bdbb39d471e60eef84</guid>
+    <fileName>Assets/OneSignal/Editor/AssemblyInfo.cs</fileName>
+    <timeStamp>2022-04-16T03:53:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>dfebe7ee667c84688aa568c08f9f29b4</guid>
+    <fileName>Assets/OneSignal/Editor/OneSignalBootstrapper.cs</fileName>
+    <timeStamp>2022-04-16T03:53:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>90dda284b07e473bb096f8c79d2bbb17</guid>
+    <fileName>Assets/OneSignal/Editor/OneSignalFileInventory.cs</fileName>
+    <timeStamp>2022-04-16T03:53:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>74587dc3c1c254236afd580a7a6b1885</guid>
+    <fileName>Assets/OneSignal/Editor/PackageManagement/Dependency.cs</fileName>
+    <timeStamp>2022-04-16T03:53:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>935457c5425ce4cacbba6820828241e0</guid>
+    <fileName>Assets/OneSignal/Editor/PackageManagement/Manifest.cs</fileName>
+    <timeStamp>2022-04-16T03:53:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cc9536923432b4fca91e2381f81fc28d</guid>
+    <fileName>Assets/OneSignal/Editor/PackageManagement/ScopeRegistry.cs</fileName>
+    <timeStamp>2022-04-16T03:53:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1d48f76bb26b4a109909a4dd3e3f49ce</guid>
+    <fileName>Assets/OneSignal/Editor/Setup/OneSignalSetupStep.cs</fileName>
+    <timeStamp>2022-04-16T03:53:23+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>ab7566d7f9cc402c9fd49f1f8d89957e</guid>
+    <fileName>Assets/OneSignal/Editor/Setup/OneSignalSetupWindow.cs</fileName>
+    <timeStamp>2022-04-16T03:53:27+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>de9844472e1e484d80f30d3b20d9b5d1</guid>
+    <fileName>Assets/OneSignal/Editor/SetupSteps/CleanUpLegacyStep.cs</fileName>
+    <timeStamp>2022-04-16T03:53:28+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>9287ab098173436fbf25163ef08d2622</guid>
+    <fileName>Assets/OneSignal/Editor/SetupSteps/ImportPackagesStep.cs</fileName>
+    <timeStamp>2022-04-16T03:53:25+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>a32dd8bed71e408592bf4d9586c53a62</guid>
+    <fileName>Assets/OneSignal/Editor/Utilities/MiniJSON.cs</fileName>
+    <timeStamp>2022-04-16T03:53:26+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>427de28d9dd04c9ab4eba7aeb5d683ab</guid>
+    <fileName>Assets/OneSignal/Editor/Utilities/ReflectionHelpers.cs</fileName>
+    <timeStamp>2022-04-16T03:53:24+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>1a40a711031e4cb8b9b3f674dda19d55</guid>
+    <fileName>Assets/OneSignal/Example/OneSignalExampleBehaviour.cs</fileName>
+    <timeStamp>2022-04-16T03:53:22+03:00</timeStamp>
+    <typeFullName />
+  </TypeDate>
+  <TypeDate>
+    <guid>cfeffb1e6e322c143af09f514483d831</guid>
+    <fileName>Assets/Scripts/BabyController.cs</fileName>
+    <timeStamp>2022-07-29T15:27:42.2350145+03:00</timeStamp>
+    <typeFullName>
+      <string>BabyController</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>16bf2f6f02b28ca4c84420ac88e99371</guid>
+    <fileName>Assets/Scripts/BillBoard.cs</fileName>
+    <timeStamp>2022-04-25T17:37:51.6507211+03:00</timeStamp>
+    <typeFullName>
+      <string>BillBoard</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>cd7a572e604cdaf4caa88cb489193a42</guid>
+    <fileName>Assets/Scripts/CameraScript.cs</fileName>
+    <timeStamp>2022-07-15T12:23:52.3837749+03:00</timeStamp>
+    <typeFullName>
+      <string>CameraScript</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>f3037f10e018b3b4c8dd8b4669b9711a</guid>
+    <fileName>Assets/Scripts/CastSkill.cs</fileName>
+    <timeStamp>2022-07-29T17:13:47.9583718+03:00</timeStamp>
+    <typeFullName>
+      <string>CastSkill</string>
+      <string>CastSkill+SkillsContainer</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>85b755bb4553bea42b855d6e3d5c4827</guid>
+    <fileName>Assets/Scripts/ElasticMesh.cs</fileName>
+    <timeStamp>2022-07-28T11:11:32.7515515+03:00</timeStamp>
+    <typeFullName>
+      <string>ElasticMesh</string>
+      <string>ElasticMesh+JellyVertex</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>06b460a7466319447ab49b8720b4e1f0</guid>
+    <fileName>Assets/Scripts/Enemy.cs</fileName>
+    <timeStamp>2022-08-09T10:32:01.9551793+03:00</timeStamp>
+    <typeFullName>
+      <string>Enemy</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>219928c76ed3a20429c586036a4a78e6</guid>
+    <fileName>Assets/Scripts/InitializeUGS.cs</fileName>
+    <timeStamp>2022-08-09T19:17:08.9396706+03:00</timeStamp>
+    <typeFullName>
+      <string>InitializeUGS</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>a00a6b994c7e23747922ab086473b1c1</guid>
+    <fileName>Assets/Scripts/Marketplace.cs</fileName>
+    <timeStamp>2022-08-09T14:14:24.9983559+03:00</timeStamp>
+    <typeFullName>
+      <string>Marketplace</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>35d2c72fc14e35c44ae0b05f5718ee6b</guid>
+    <fileName>Assets/Scripts/Obstacle.cs</fileName>
+    <timeStamp>2022-07-29T10:59:05.9112332+03:00</timeStamp>
+    <typeFullName>
+      <string>Obstacle</string>
+      <string>Obstacle+ObstacleEnum</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>521c4c4ef331bc5489f52e614eca7ac7</guid>
+    <fileName>Assets/Scripts/PlayerController.cs</fileName>
+    <timeStamp>2022-08-09T18:46:51.9525882+03:00</timeStamp>
+    <typeFullName>
+      <string>PlayerController</string>
+      <string>PlayerController+Phases</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>d7a9863850b5c7c4aab69cd6182ec8ee</guid>
+    <fileName>Assets/Scripts/VFXMarketplace.cs</fileName>
+    <timeStamp>2022-08-10T10:40:28.6145872+03:00</timeStamp>
+    <typeFullName>
+      <string>VFXMarketplace</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>e9e5353618a16334ebef1e495d049ba1</guid>
+    <fileName>Assets/Scripts/Helpers/JsonFormater.cs</fileName>
+    <timeStamp>2022-08-09T13:46:38.1477214+03:00</timeStamp>
+    <typeFullName>
+      <string>FailCallbackError</string>
+      <string>User</string>
+      <string>UserData</string>
+      <string>UserInfo</string>
+      <string>GetUser</string>
+      <string>Data</string>
+      <string>GetUserData</string>
+      <string>Register</string>
+      <string>RegisterData</string>
+      <string>RegisterInfo</string>
+      <string>AddReward</string>
+      <string>GetReward</string>
+      <string>GetRewardData</string>
+      <string>RemoveCoin</string>
+      <string>IncreaseMolly</string>
+      <string>UpgradeMolly</string>
+      <string>Item</string>
+      <string>ItemData</string>
+      <string>ItemAddForUser</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>0408015a1eb9d56478eb2858c547c5ba</guid>
+    <fileName>Assets/Scripts/Helpers/UIPointerEventDatas.cs</fileName>
+    <timeStamp>2022-07-05T12:13:54.4073072+03:00</timeStamp>
+    <typeFullName>
+      <string>UIPointerEventDatas</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>08af773890bca3442a11e6cd4ac42f31</guid>
+    <fileName>Assets/Scripts/Managers/AudioManager.cs</fileName>
+    <timeStamp>2022-06-23T11:31:40.079245+03:00</timeStamp>
+    <typeFullName>
+      <string>AudioManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>42c526ce3868be648ab9296835d366a7</guid>
+    <fileName>Assets/Scripts/Managers/GameManager.cs</fileName>
+    <timeStamp>2022-08-10T11:18:55.4654707+03:00</timeStamp>
+    <typeFullName>
+      <string>GameManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>4b71aeea976c5cd4488492be3cfeb2c9</guid>
+    <fileName>Assets/Scripts/Managers/LevelCreator.cs</fileName>
+    <timeStamp>2022-08-01T10:29:07.6828812+03:00</timeStamp>
+    <typeFullName>
+      <string>LevelCreator</string>
+      <string>LevelCreator+OptionsChooseIndex</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>6668ad7ad10bb1b4f893422374969249</guid>
+    <fileName>Assets/Scripts/Managers/LevelCreatorEditor.cs</fileName>
+    <timeStamp>2022-08-10T11:06:45.0017962+03:00</timeStamp>
+    <typeFullName>
+      <string>LevelCreatorEditor</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>161adfa780b3e4c40ae2443d53726811</guid>
+    <fileName>Assets/Scripts/Managers/LoadManager.cs</fileName>
+    <timeStamp>2022-07-04T12:46:51.9772708+03:00</timeStamp>
+    <typeFullName>
+      <string>LoadManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>5af79c0ae6e00784199e07e02863222b</guid>
+    <fileName>Assets/Scripts/Managers/NetworkManager.cs</fileName>
+    <timeStamp>2022-08-10T11:08:25.2716299+03:00</timeStamp>
+    <typeFullName>
+      <string>NetworkManager</string>
+      <string>NetworkManager+NetworkCallback</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b95d461e78c39fb458e8504d1848686e</guid>
+    <fileName>Assets/Scripts/Managers/ObjectPooler.cs</fileName>
+    <timeStamp>2022-07-20T11:00:23.182866+03:00</timeStamp>
+    <typeFullName>
+      <string>ObjectPooler</string>
+      <string>ObjectPooler+Pool</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>bc18931b041c0e64c979dc1da2eebac3</guid>
+    <fileName>Assets/Scripts/Managers/SaveManager.cs</fileName>
+    <timeStamp>2022-08-09T19:31:49.6221158+03:00</timeStamp>
+    <typeFullName>
+      <string>SaveManager</string>
+      <string>PlayerData_Storage</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>3b4f9e1c30191f14b9e2ad4fa0b64cd7</guid>
+    <fileName>Assets/Scripts/Managers/SplashManager1.cs</fileName>
+    <timeStamp>2022-07-20T10:21:32.8430872+03:00</timeStamp>
+    <typeFullName>
+      <string>SplashManager1</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>eba7ebba4f59664499e5cd01d2c16e40</guid>
+    <fileName>Assets/Scripts/Managers/UIManager.cs</fileName>
+    <timeStamp>2022-08-09T19:22:26.5611942+03:00</timeStamp>
+    <typeFullName>
+      <string>UIManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>fda5feb70e5647d428fa62419a213e6f</guid>
+    <fileName>Assets/Scripts/Managers/VFXManager.cs</fileName>
+    <timeStamp>2022-08-09T18:47:04.1860635+03:00</timeStamp>
+    <typeFullName>
+      <string>VFXManager</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>df21c0e7e530d1e47a7cf40332b3660e</guid>
+    <fileName>Assets/Scripts/NewScripts/BonusUtils.cs</fileName>
+    <timeStamp>2022-06-19T20:23:44.9688533+03:00</timeStamp>
+    <typeFullName>
+      <string>BonusUtils</string>
+      <string>BonusUtils+BonusType</string>
+      <string>Bonus</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>25bfbb7d37236eb4882afb7843453284</guid>
+    <fileName>Assets/Scripts/NewScripts/Detection.cs</fileName>
+    <timeStamp>2022-07-29T15:59:03.8057389+03:00</timeStamp>
+    <typeFullName>
+      <string>Detection</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+  <TypeDate>
+    <guid>b33f62e766cc91d4988535b1e5952b6d</guid>
+    <fileName>Assets/Scripts/NewScripts/Options.cs</fileName>
+    <timeStamp>2022-07-29T11:04:42.0856796+03:00</timeStamp>
+    <typeFullName>
+      <string>Options</string>
+    </typeFullName>
+    <assemblly>Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null</assemblly>
+  </TypeDate>
+</ArrayOfTypeDate>

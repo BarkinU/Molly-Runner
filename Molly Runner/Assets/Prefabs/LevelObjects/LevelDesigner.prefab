@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5629443268274261740
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5629443268274261742}
+  - component: {fileID: 5629443268274261743}
+  m_Layer: 0
+  m_Name: LevelDesigner
+  m_TagString: Untagged
+  m_Icon: {fileID: 1206586993520771344, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5629443268274261742
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5629443268274261740}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5629443268274261743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5629443268274261740}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4b71aeea976c5cd4488492be3cfeb2c9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  level: 73
+  optionsPrefab: {fileID: 8919287790866082367, guid: ffe7839eab4cae74ab63d29f32dabb40, type: 3}
+  optionChoose: 0
+  optionSpawnPoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  levelOptionCount: 6
+  tempOptionSpawnPointIndex: 1
+  levelObstacleCount: 5
+  tempObstaclePointIndex: 2
+  tempObstacleToSpawnIndex: 13
+  obstacles:
+  - {fileID: 1082801294249864353, guid: 6c87efc52fc25cc4fa8b7b782867dd81, type: 3}
+  - {fileID: 137529481492801046, guid: f2be75d5d06dcaa49b67f956c6562c56, type: 3}
+  - {fileID: 1453365555647586310, guid: a9767f333d0ae0041960f942c6e49fc8, type: 3}
+  - {fileID: 2506403321373096864, guid: 49e6637e35639ab4a99cbaf343ec88e8, type: 3}
+  - {fileID: 7410529445469770865, guid: 2e8db74f65e16684e8206fb4b2c2a3af, type: 3}
+  - {fileID: 3104813077073962573, guid: e97510242fb0f654dba84a190dcb9dd6, type: 3}
+  - {fileID: 7319722092942855252, guid: 46224a7c68261734db97e2da9a5825a7, type: 3}
+  - {fileID: 2999969698105489566, guid: ce8d9ab747b35754a847a249d35344cf, type: 3}
+  - {fileID: 218730791125195792, guid: 93fcca52c28f15a44b14b801ee01a625, type: 3}
+  - {fileID: 3497040669606684321, guid: f3df8a632e4752b4a993155e842ddf16, type: 3}
+  - {fileID: 3875708783288595830, guid: 698697f18dd39fb42891b1bd4771d8e3, type: 3}
+  - {fileID: 4084732276065595036, guid: 388af9c5d47045549a33af1272c1f621, type: 3}
+  - {fileID: 7658753809416842975, guid: 15fbc1d5fae42c7459f6918fdcbf11ee, type: 3}
+  - {fileID: 1853727971746806801, guid: 4d40f5a2f9f893746b31b03fb21d1b74, type: 3}
+  - {fileID: 2260428854140500809, guid: bcb579cbe86b5a245b08ce8b17ac0357, type: 3}
+  - {fileID: 4182246946477889919, guid: 40575ccdca0cd4546af22b631d13a6a9, type: 3}
+  - {fileID: 126870834675517700, guid: e146aa6bfec9c4743aac4498f2c6e19a, type: 3}
+  - {fileID: 1395499642760292151, guid: f837e446df9b2d640b57e7296b9466bc, type: 3}
+  obstaclePoints:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

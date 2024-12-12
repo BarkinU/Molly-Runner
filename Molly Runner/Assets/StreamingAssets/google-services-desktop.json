@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "298095751351",
+    "project_id": "minego-runner",
+    "storage_bucket": "minego-runner.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298095751351:android:8e24e9dc7400f64abfdd32",
+        "android_client_info": {
+          "package_name": "com.minego.runner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298095751351-1f2j3hfprpcuteifa0377qsch0dt6j0a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKDCY7Wq87ZMjvT2C5qeYrdq8QRM2FQ2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298095751351-1f2j3hfprpcuteifa0377qsch0dt6j0a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "298095751351-89acgpfi2tsj9brnlhgiqa2n2ccm5nea.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.minego.runner"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: shieldmat
+  m_Shader: {fileID: -6465566751694194690, guid: d783b4078f3cfd44d89e5568e2767126, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_7FCC054E:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_B24C83B0:
+        m_Texture: {fileID: 2800000, guid: e53440595f3362247b0ddc66e3c21d0d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E43982E:
+        m_Texture: {fileID: 2800000, guid: c25d3c872e1dd1a42a1c25b8a3f7c508, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_E5130C32:
+        m_Texture: {fileID: 2800000, guid: 2b5cddba41302084ea26f0d46ee15ac3, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_C1728026: 4.67
+    - Vector1_D1034171: 0.05
+    m_Colors:
+    - Color_DB555ADA: {r: 11.921569, g: 11.921569, b: 11.921569, a: 1}
+    - Vector2_781FB8A4: {r: 0.2, g: 0.2, b: 0, a: 0}
+    - Vector2_892CE00: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_8E0A3991: {r: -0.8, g: 0.1, b: 0, a: 0}
+    - Vector2_C3A961A0: {r: 0, g: 0, b: 0, a: 0}
+    - Vector2_D6AA7B7D: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_E10066FE: {r: -0.1, g: 0, b: 0, a: 0}
+  m_BuildTextureStacks: []
