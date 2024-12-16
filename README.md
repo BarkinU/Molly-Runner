@@ -1,7 +1,7 @@
 # Molly-Runner
 ---
 
-A runner game in the hypercasual genre, designed for users in the MineGo Network universe to embark on an adventure with the main character, Molly.
+- A runner game in the hypercasual genre, designed for users in the MineGo Network universe to embark on an adventure with the main character, Molly.
 Molly's minimalist style is brought into a 3D environment, aiming to provide users with both entertainment and opportunities to spend their earnings
 
 ---
